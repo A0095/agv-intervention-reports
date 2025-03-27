@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables à personnaliser
-GITHUB_TOKEN="ghp_votreTokenIci"
+GITHUB_TOKEN="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"
 REPO="A0095/agv-intervention-reports"
 BRANCH="main"
 FILEPATH="reports/rapport_2025-03-27_07-22-28.md"
